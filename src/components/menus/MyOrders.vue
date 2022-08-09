@@ -1,10 +1,10 @@
 <template>
-  <router-view></router-view>
+  <h4 class="text-center">订单管理</h4>
 </template>
 
 <script>
 export default {
-  name: 'MyApp'
+  name: 'MyOrders'
 }
 </script>
 
